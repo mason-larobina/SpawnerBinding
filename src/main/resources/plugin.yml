@@ -1,0 +1,7 @@
+name: SpawnerBinding
+version: '1.0.0'
+main: me.laz.spawnerbinding.SpawnerBinding
+api-version: '1.21'
+
+depend:
+  - CommandAPI
